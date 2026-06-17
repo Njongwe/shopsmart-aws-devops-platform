@@ -1,0 +1,6 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+.env
+.vscode/
+.DS_Store
